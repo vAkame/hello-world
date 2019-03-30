@@ -1,4 +1,6 @@
 # hello-world
 First repository/Learning GitHub
 
-Learn some GitHub, What else can I say :).
+Trying branching on my own hehexd
+
+
